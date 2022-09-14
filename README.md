@@ -1,4 +1,3 @@
-# waka
 <!--START_SECTION:waka-->
 
 ```text
