@@ -4,12 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 06 June 2024
+From: 31 May 2024 - To: 07 June 2024
 
-Total Time: 44 mins
+Total Time: 33 mins
 
-Python   33 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.69 %
-JSON     10 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.31 %
+Python   33 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
